@@ -1,0 +1,1 @@
+# typedoc_no_protected
